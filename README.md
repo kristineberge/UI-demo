@@ -1,3 +1,6 @@
+###MIGHT BE DEPRECATED!
+# Created as examples for students taking the course IN5320 "Development in Platform Ecosystems" at University of Oslo. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
